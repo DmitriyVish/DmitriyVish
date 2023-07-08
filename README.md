@@ -1,16 +1,33 @@
+<div id="header" align="center"> 
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
+  </a>
+</div>
+<div id="badges" align="center">
+ <a href="https://www.kaggle.com/dmitriyvishnyakov">
+  <img src="https://img.shields.io/badge/Kaggle-blue?logo=Kaggle&logoColor=white" alt="Kaggle"/>
+ </a> 
+</div>
+
 ### Hi there 👋
+### :man_technologist: About Me : 
+I'm a data scientist at home from Russia. Working on pet-projects.
+- 🌱 I'm currently studying machine learning and data analysis.
+- 🤔 I'm looking for help finding interesting projects to practice on.
+- 📫 How to reach me: dimonist@mail.ru
 
-<!--
-**DmitriyVish/DmitriyVish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :hammer_and_wrench: Languages and Tools : 
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+</div>
 
-Here are some ideas to get you started:
+### My stat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?DmitriyVish=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?DmitriyVish=vn7n24fzkq&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?DmitriyVish=vn7n24fzkq&theme=github_dark" alt=""/>
+</div>
+  
