@@ -8,7 +8,7 @@
  </a> 
 </div>
 
-### Hi there 👋
+### Hi there 👋, I'm Dmitriy
 ### :man_technologist: About Me : 
 I'm a data scientist at home from Russia. Working on pet-projects.
 - 🌱 I'm currently studying machine learning and data analysis.
@@ -24,10 +24,6 @@ I'm a data scientist at home from Russia. Working on pet-projects.
 </div>
 
 ### My stat
+[![DmitriyVish github stats](https://github-readme-stats.vercel.app/api?username=DmitriyVish)](https://github.com/DmitriyVish?tab=repositories)
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?DmitriyVish=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?DmitriyVish=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?DmitriyVish=vn7n24fzkq&theme=github_dark" alt=""/>
-</div>
   
